@@ -27,4 +27,5 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
++ [第0周](https://cool.ntu.edu.tw/courses/49139/files/7047757?module_item_id=1920206)
 + [DeepSeek的九個關鍵詞](https://www.thenewslens.com/article/248651)
