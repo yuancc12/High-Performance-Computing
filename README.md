@@ -27,3 +27,4 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
++ [DeepSeek的九個關鍵詞](https://www.thenewslens.com/article/248651)
