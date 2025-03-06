@@ -27,7 +27,7 @@
 # 專欄分享
 + [DeepSeek的九個關鍵詞](https://www.thenewslens.com/article/248651)
 # 作業專區
-+[Homework 2: Padded 2-D Convolution with OpenMP](https://cool.ntu.edu.tw/courses/49139/assignments/294380?module_item_id=1948860)
++ [Homework 2: Padded 2-D Convolution with OpenMP](https://cool.ntu.edu.tw/courses/49139/assignments/294380?module_item_id=1948860)
 # 課堂PPT
 + [Introduction](https://cool.ntu.edu.tw/courses/49139/files/7047757?module_item_id=1920206)
 + [HPC Systems](https://cool.ntu.edu.tw/courses/49139/files/7094077?module_item_id=1942695)
