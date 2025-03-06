@@ -3,7 +3,7 @@
 # 目錄
 + [簡介](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
-+ [練習專區](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
++ [專欄分享](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [課堂PPT](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
@@ -24,8 +24,11 @@
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python,LLM,RPA，Node.js,JavaScript,Arduino,C++,C#,C
 ***
-# 練習專區
-# 作業專區
-# 課堂PPT
-+ [第0周](https://cool.ntu.edu.tw/courses/49139/files/7047757?module_item_id=1920206)
+# 專欄分享
 + [DeepSeek的九個關鍵詞](https://www.thenewslens.com/article/248651)
+# 作業專區
++[Homework 2: Padded 2-D Convolution with OpenMP](https://cool.ntu.edu.tw/courses/49139/assignments/294380?module_item_id=1948860)
+# 課堂PPT
++ [Introduction](https://cool.ntu.edu.tw/courses/49139/files/7047757?module_item_id=1920206)
++ [HPC Systems](https://cool.ntu.edu.tw/courses/49139/files/7094077?module_item_id=1942695)
+
