@@ -31,4 +31,8 @@
 # 課堂PPT
 + [Introduction](https://cool.ntu.edu.tw/courses/49139/files/7047757?module_item_id=1920206)
 + [HPC Systems](https://cool.ntu.edu.tw/courses/49139/files/7094077?module_item_id=1942695)
++ [Lecture 02 Parallel and Distributed Programming](https://cool.ntu.edu.tw/courses/49139/files/7174090?module_item_id=1956359)
++ [Heterogeneous Computing- Hardware and Software Perspectives](https://cool.ntu.edu.tw/courses/49139/files/7173237?module_item_id=1956200)
++ [omp-hands-on-SC08](https://cool.ntu.edu.tw/courses/49139/files/7173993?module_item_id=1956348)
++ [Parallel Programming in OpenMP](https://cool.ntu.edu.tw/courses/49139/files/7174002?module_item_id=1956351)
 
