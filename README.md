@@ -8,11 +8,11 @@
 + [課堂PPT](https://github.com/yuancc12/high-performance-computing/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
-**授課教師:洪士灝教授**
+**授課教師：洪士灝教授**
 
 **上課時間：星期二 13.20-16.20**
 
-**上課地點：資111**
+**上課地點：圖靈講堂**
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
