@@ -35,4 +35,5 @@
 + [Heterogeneous Computing- Hardware and Software Perspectives](https://cool.ntu.edu.tw/courses/49139/files/7173237?module_item_id=1956200)
 + [omp-hands-on-SC08](https://cool.ntu.edu.tw/courses/49139/files/7173993?module_item_id=1956348)
 + [Parallel Programming in OpenMP](https://cool.ntu.edu.tw/courses/49139/files/7174002?module_item_id=1956351)
++ [AI Systems](https://cool.ntu.edu.tw/courses/49139/files/7382756?module_item_id=1984927)
 
